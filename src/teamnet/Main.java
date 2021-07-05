@@ -3,7 +3,7 @@ package teamnet;
 public class Main {
     public static void main(String[] args)
     {
-        System.out.println("Feature 1 (Verificat)\n");
+        System.out.println("Aplicatie finala\n");
 
         System.out.println("optiune 1");
         System.out.println("optiune 2");
